@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541686757 source:c:\users\kmarc\onedrive\desktop\bellmanford\bellmanford\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
