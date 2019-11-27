@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573690286 source:c:\users\abc\desktop\tryyy\listaa\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<queue>
+	"limits.h"
+

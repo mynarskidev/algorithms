@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573694325 source:c:\users\abc\desktop\fordfulkerson\macierz\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<queue>
+	"limits.h"
+

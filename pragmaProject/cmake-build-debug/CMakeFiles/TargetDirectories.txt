@@ -1,0 +1,3 @@
+C:/Users/abc/CLionProjects/pragmaProject/cmake-build-debug/CMakeFiles/pragmaProject.dir
+C:/Users/abc/CLionProjects/pragmaProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abc/CLionProjects/pragmaProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
