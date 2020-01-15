@@ -13,7 +13,6 @@ void merge(int arr[], int l, int m, int r) {
     int i, j, k;
     int n1 = m - l + 1;
     int n2 = r - m;
-
     int L[n1], R[n2];
 
     for (i = 0; i < n1; i++)
@@ -50,19 +49,15 @@ void merge(int arr[], int l, int m, int r) {
 
 void mergeSort(int arr[], int l, int r) {
     if (l < r) {
-
         int m = l + (r - l) / 2;
-
         mergeSort(arr, l, m);
         mergeSort(arr, m + 1, r);
-
         merge(arr, l, m, r);
     }
 }
 
 void mergeSortParallel(int arr[], int l, int r) {
     int sumk = 8;
-
     int diff = (r - l + 1) / sumk;
     int divide[sumk + 1];
     divide[0] = l - 1;
@@ -70,7 +65,6 @@ void mergeSortParallel(int arr[], int l, int r) {
         divide[i] = l + diff * i;
     }
     divide[sumk] = r;
-
 
     omp_set_num_threads(sumk);
 #pragma omp parallel
@@ -103,7 +97,7 @@ void printArray(int A[], int size) {
 }
 
 int main() {
-    int arr_size = 25000;
+    int arr_size = 15000;
     random_device dev;
     mt19937 rng(dev());
     uniform_int_distribution<> dist(0, arr_size);
