@@ -34,7 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab5-Huffman" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
@@ -70,7 +70,8 @@
       <workItem from="1576145945290" duration="2794000" />
       <workItem from="1577453363245" duration="495000" />
       <workItem from="1577454105285" duration="23000" />
-      <workItem from="1579112401465" duration="4239000" />
+      <workItem from="1579112401465" duration="5139000" />
+      <workItem from="1579119847999" duration="899000" />
     </task>
     <servers />
   </component>
@@ -78,25 +79,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="220" key="GridCell.Tab.0.bottom" timestamp="1579116891793">
+    <state x="-1180" y="146" key="FileChooserDialogImpl" timestamp="1579120073961">
       <screen x="-1920" y="-148" width="1920" height="1080" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-148.1920.1080@-1920.-148.1920.1080" timestamp="1579116891793" />
-    <state width="1876" height="220" key="GridCell.Tab.0.center" timestamp="1579116891793">
+    <state x="-1180" y="146" key="FileChooserDialogImpl/0.0.1366.728/-1920.-148.1920.1080@-1920.-148.1920.1080" timestamp="1579120073961" />
+    <state width="1876" height="569" key="GridCell.Tab.0.bottom" timestamp="1579119767392">
       <screen x="-1920" y="-148" width="1920" height="1080" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-148.1920.1080@-1920.-148.1920.1080" timestamp="1579116891793" />
-    <state width="1876" height="220" key="GridCell.Tab.0.left" timestamp="1579116891792">
+    <state width="1876" height="569" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-148.1920.1080@-1920.-148.1920.1080" timestamp="1579119767392" />
+    <state width="1876" height="569" key="GridCell.Tab.0.center" timestamp="1579119767392">
       <screen x="-1920" y="-148" width="1920" height="1080" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-148.1920.1080@-1920.-148.1920.1080" timestamp="1579116891792" />
-    <state width="1876" height="220" key="GridCell.Tab.0.right" timestamp="1579116891793">
+    <state width="1876" height="569" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-148.1920.1080@-1920.-148.1920.1080" timestamp="1579119767392" />
+    <state width="1876" height="569" key="GridCell.Tab.0.left" timestamp="1579119767392">
       <screen x="-1920" y="-148" width="1920" height="1080" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-148.1920.1080@-1920.-148.1920.1080" timestamp="1579116891793" />
+    <state width="1876" height="569" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-148.1920.1080@-1920.-148.1920.1080" timestamp="1579119767392" />
+    <state width="1876" height="569" key="GridCell.Tab.0.right" timestamp="1579119767392">
+      <screen x="-1920" y="-148" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="569" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-148.1920.1080@-1920.-148.1920.1080" timestamp="1579119767392" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1579112485721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728/-1920.-148.1920.1080@0.0.1366.728" timestamp="1579112485721" />
+    <state x="-1265" y="214" key="com.intellij.ide.util.TipDialog" timestamp="1579120038005">
+      <screen x="-1920" y="-148" width="1920" height="1080" />
+    </state>
+    <state x="-1265" y="214" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-148.1920.1080@-1920.-148.1920.1080" timestamp="1579120038005" />
   </component>
 </project>

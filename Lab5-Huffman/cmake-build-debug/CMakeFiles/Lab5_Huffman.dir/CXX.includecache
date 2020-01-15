@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/abc/workspace/algorithms/Lab5-Huffman/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+queue
+-
+unordered_map
+-
+

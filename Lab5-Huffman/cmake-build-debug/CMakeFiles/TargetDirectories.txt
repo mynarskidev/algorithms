@@ -1,0 +1,3 @@
+C:/Users/abc/workspace/algorithms/Lab5-Huffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/abc/workspace/algorithms/Lab5-Huffman/cmake-build-debug/CMakeFiles/Lab5_Huffman.dir
+C:/Users/abc/workspace/algorithms/Lab5-Huffman/cmake-build-debug/CMakeFiles/edit_cache.dir
