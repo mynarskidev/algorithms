@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/abc/workspace/algorithms/Lab4/ex1.cpp
+stdlib.h
+-
+stdio.h
+-
+omp.h
+-
+iostream
+-
+random
+-
+chrono
+-
+ctime
+-
+zconf.h
+-
+
